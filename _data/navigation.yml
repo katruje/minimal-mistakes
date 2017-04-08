@@ -1,7 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Coupa Success Portal"
+    url: https://success.coupa.com
+
+  - title: "Coupa Community"
+    url: https://community.coupa.com    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
